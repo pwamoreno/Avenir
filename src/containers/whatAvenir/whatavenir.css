@@ -1,0 +1,99 @@
+.avenir__whatavenir{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    background: linear-gradient(90deg, rgba(47, 24, 83, 1) 0%, rgba(136, 6, 170, 1) 100%);
+}
+
+.avenir__whatavenir-feature{
+    display: flex;
+}
+
+.avenir__whatavenir-feature .avenir__features-container__feature{
+    margin: 0;
+}
+
+.avenir__whatavenir-feature .avenir__features-container_feature-text{
+    max-width: 700px;
+}
+
+.avenir__whatavenir-heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 4rem 0 2rem;
+}
+
+.avenir__whatavenir-heading h1{
+    font-size: 34px;
+    line-height: 45px;
+    font-weight: 800;
+    max-width: 510px;
+    font-family: var(--font-family);
+}
+
+.avenir__whatavenir-heading p{
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: var(--color-subtext);
+    cursor: pointer;
+}
+
+.avenir__whatavenir-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top: 2rem;
+}
+
+.avenir__whatavenir-container .avenir__features-container__feature {
+    flex: 1;
+    margin: 1rem;
+    min-width: 210px;
+    display: unset;
+    flex-direction: column;
+}
+
+.avenir__whatavenir-container .avenir__features-container_feature-text {
+    margin-top: 0.5rem;
+}
+
+@media screen and (max-width: 850px) {
+    .avenir__whatavenir-heading {
+        flex-direction: column;
+        align-items: flex-start;
+        margin-bottom: 0rem;
+    }
+    .avenir__whatavenir-heading p {
+        margin-top: 1rem;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .avenir__whatavenir-feature .avenir__features-container__feature {
+        flex-direction: column;
+    }
+    .avenir__whatavenir-feature .avenir__features-container_feature-text {
+        margin-top: 0.5rem;
+    }
+    .avenir__whatavenir-heading h1 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .section__margin{
+        margin: 2rem 3rem;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    .avenir__whatavenir-container .avenir__features-container__feature {
+        margin: 1rem 0;
+        min-width: 100%;
+    }
+    .section__margin{
+        margin: 2rem 3rem;
+    }
+}

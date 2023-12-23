@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8c7da84.css",
+    "main.js": "/static/js/main.cce3ba6f.js",
+    "static/js/787.6d78a0f8.chunk.js": "/static/js/787.6d78a0f8.chunk.js",
+    "static/media/ai.png": "/static/media/ai.0a53ad0cf5ad4ca74f5d.png",
+    "static/media/possibilities.png": "/static/media/possibilities.01a1dd304f74ad7848fc.png",
+    "static/media/blog03.png": "/static/media/blog03.5cdac14f6c711a0b103d.png",
+    "static/media/blog06.png": "/static/media/blog06.e21739546d37920dcfe5.png",
+    "static/media/blog04.png": "/static/media/blog04.5d6d2ea584f19b6e1be3.png",
+    "static/media/blog01.png": "/static/media/blog01.1377f623e3b18ebe551a.png",
+    "static/media/blog02.png": "/static/media/blog02.4a3ffed6ef29cc7031d5.png",
+    "static/media/blog05.png": "/static/media/blog05.07ab417968ce79c41fa1.png",
+    "static/media/rational.png": "/static/media/rational.4fe40223f3bf3a5d36a7.png",
+    "static/media/gladiator.png": "/static/media/gladiator.115424cebb7a20235d16.png",
+    "static/media/bike.png": "/static/media/bike.9f828644bba3e8ac586b.png",
+    "static/media/logo.svg": "/static/media/logo.bfb2b54a5afe7e8446e1e653296d87bd.svg",
+    "index.html": "/index.html",
+    "main.e8c7da84.css.map": "/static/css/main.e8c7da84.css.map",
+    "main.cce3ba6f.js.map": "/static/js/main.cce3ba6f.js.map",
+    "787.6d78a0f8.chunk.js.map": "/static/js/787.6d78a0f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8c7da84.css",
+    "static/js/main.cce3ba6f.js"
+  ]
+}
